@@ -1,6 +1,8 @@
 # Love Story Page
 
-感谢 hackerzhou 贡献这么一段代码，王铜小朋友需要一个小的页面用来向His Grilfriend示爱，于是就有了这个新Fork的诞生。但是在时间处理的时候必须提前一个月，不清楚哪里的问题，反正能运行就好了。
+感谢 hackerzhou 贡献这么一段代码，王铜小朋友需要一个小的页面用来向His Grilfriend示爱，于是就有了这个新Fork的诞生。
+
+补充说明：js的月份是从零开始计算的，例如如果是6月的话，index.html里就应该写5。
 
 就这样。
 
